@@ -27,5 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
 /.idea/
 /lab2.iml
+/resourses/
